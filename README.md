@@ -17,17 +17,13 @@ Add this repository as a database in Profilarr:
 https://github.com/Dictionarry-Hub/trash-pcd
 ```
 
-To use a specific branch, enter the branch name (e.g., `anime`) in the **Branch** field. Leave empty for the default branch (all profiles).
+To use a specific branch, enter the branch name (e.g., `french`) in the **Branch** field. Leave empty for the default branch.
 
 You can link the same repo multiple times with different branches if you want a combination of profiles.
 
 ## Credits
 
 The configurations in this database are made entirely by the TRaSH Guides team and all credit goes to them. This repo exists simply to make it available to Profilarr users.
-
-## Generation
-
-This database is auto-generated daily from TRaSH Guides using trash-conv.
 
 ## License
 
